@@ -1,7 +1,5 @@
 #![feature(is_sorted)]
 
-use std::fmt::Display;
-
 trait BubbleSort<T> {
     fn bubble_sort(&mut self);
     fn bubble_sort_by(&mut self, by: FnMustSwap<T>);
