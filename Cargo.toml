@@ -6,6 +6,7 @@ description = "A simple bubble sort implementation for Vec"
 authors = ["Elihu Diaz Álvarez"]
 keywords = ["bubble_sort", "sort", "vec"]
 license = "MIT"
+repository = "https://github.com/cstffx/csbubble_sort"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
